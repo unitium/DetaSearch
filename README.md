@@ -1,1 +1,1 @@
-# DetaSearch.
+# DetaSearch
